@@ -1,9 +1,11 @@
 # git
 
-## Description
+**Description**
+
 Creating a github repo via terminal
 
-## Installation
+**Installation**
+
 **git**
 ```
 brew install git
