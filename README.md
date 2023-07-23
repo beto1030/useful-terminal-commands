@@ -4,7 +4,7 @@
 
 Creating a github repo via terminal
 
-**Installation**
+### Installation
 
 **git**
 ```
@@ -16,7 +16,7 @@ npm install gh-pages
 ```
 
 
-## Workflow
+### Workflow
 **Step 1**
 Create a project
 
