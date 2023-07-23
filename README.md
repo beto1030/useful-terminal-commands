@@ -44,6 +44,6 @@ If you are creating a website, you can publish it online using this script. Plac
 ```
 Your published project will be **\<github-username\>.github.io/\<project-name\>**
 
-Look at mine for example **beto1030.github.io/odin-recipes**
+Look at mine for example **https://beto1030.github.io/odin-recipes**
 
 ![git-cheatsheet](./git-cheatsheet.png)
