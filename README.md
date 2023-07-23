@@ -42,6 +42,8 @@ If you are creating a website, you can publish it online using this script. Plac
 "publish": "gh-pages -d ."
 
 ```
-Your published project will be **<github-username>.github.io/<project-name>**
+Your published project will be **\<github-username\>.github.io/\<project-name\>**
 
 Look at mine for example **beto1030.github.io/odin-recipes**
+
+![git-cheatsheet](./git-cheatsheet.png)
